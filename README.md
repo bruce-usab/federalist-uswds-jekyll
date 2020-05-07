@@ -9,6 +9,8 @@
 
 [![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=18F/federalist-uswds-jekyll)](https://dependabot.com)
 
+[Reference implementation of USWDS 2.0 for Jekyll on Federalist](https://federalist-ce810add-9092-4627-8246-9b65cf94623c.app.cloud.gov/site/18f/federalist-uswds-jekyll/) and [public demo](https://federalist-proxy.app.cloud.gov/site/18f/uswds-jekyll/). (They are very similar but not exactly the same.)
+
 # Federalist + U.S. Web Design System + Jekyll
 
 This [Jekyll theme](https://jekyllrb.com/docs/themes/) is developed using the [U.S. Web Design System v 2.0](https://v2.designsystem.digital.gov) and is focused on providing developers a starter kit and reference implementation for Federalist websites.
