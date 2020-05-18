@@ -1,7 +1,7 @@
 ---
 title: Update of Federal Acquisition Regulation Proposed 
 layout: post
-date: April 31, 2020
+date: March 31, 2020
 author: Camara Francis (GSA)
 excerpt: he Federal Acquisition Regulatory Council has proposed an update to its regulations governing federal procurements to incorporate the Board's updated Section 508 Standards.
 image: far.png
