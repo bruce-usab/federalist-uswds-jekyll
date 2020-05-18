@@ -1,4 +1,4 @@
-$theme-hero-image: asset_path("usab-seal.png");
+// $theme-hero-image: asset_path("usab-seal.png");
 
 // Import the US Web Design System SASS.
 
@@ -39,7 +39,7 @@ $theme-hero-image: asset_path("usab-seal.png");
 }
 
 .usa-hero {
-  background-image: url(../images/usab-seal.png);
+  background-image: asset_url("usab-seal.png");
   background-position: 50%;
   background-size: cover;
 }
